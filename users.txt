@@ -1,0 +1,4 @@
+niko:123
+niko:234
+admin:aqw
+coba baru:123

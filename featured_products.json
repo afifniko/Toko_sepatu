@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "name": "Vans Slip On",
+            "price": "2.099.000",
+            "image": "..\/uploads\/676cc4f27b030.jpg",
+            "id": "1734697668"
+        },
+        {
+            "name": "Vans  Old Skool",
+            "price": "721.650",
+            "image": "..\/uploads\/676cc582e6ba4.jpg",
+            "id": "1734697864"
+        },
+        {
+            "name": "Vans Authentic",
+            "price": "999.000",
+            "image": "..\/uploads\/676cc678bc0a9.jpg",
+            "id": "1734697875"
+        },
+        {
+            "name": "contoh edit produk baru",
+            "price": "123456",
+            "image": "..\/uploads\/676cda11be0e4.png",
+            "id": "1735186961"
+        }
+    ]
+}

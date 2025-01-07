@@ -1,0 +1,19 @@
+{
+    "features": [
+        {
+            "icon": "fas fa-rocket",
+            "title": "Cepat",
+            "description": "Pengiriman Yang Cepat dan Harga Terjangkau"
+        },
+        {
+            "icon": "fas fa-shield-alt",
+            "title": "Aman",
+            "description": "Barang Anda Dijamin Aman dan Menjamin Keaslian Produk"
+        },
+        {
+            "icon": "fas fa-headset",
+            "title": "Dukungan 24\/7",
+            "description": "Melayani 24 Jam"
+        }
+    ]
+}
